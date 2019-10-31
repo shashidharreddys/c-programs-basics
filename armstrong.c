@@ -24,6 +24,6 @@ if(b==c)
 }
 else
 {
-    printf("Not Armstrong");
+    printf("Not an Armstrong number");
 }
 }
